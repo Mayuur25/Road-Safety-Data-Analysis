@@ -5,7 +5,6 @@ Road Safety Power BI analysis is a project where i have analyzed the road safety
 
 
 ## 📈 Charts
-![da](https://github.com/Mayuur25/Amazon-Sales-Power-BI/assets/129951344/d431beba-9471-4f1c-890f-b9d0b96cee2f)
 
 ![2](https://github.com/Mayuur25/Road-Safety-Data-Analysis/assets/129951344/31b50d2e-2d77-4c52-87de-7d0e9c6921f6)
 ![4](https://github.com/Mayuur25/Road-Safety-Data-Analysis/assets/129951344/157e3b86-7083-4ec3-86bf-e6fa8e119030)
